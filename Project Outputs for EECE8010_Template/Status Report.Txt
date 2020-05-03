@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [EECE8010_Template.PrjPcb]
+   Generated File[Template-Plated.TXT]
+   Generated File[Template.LDP]
+   Generated File[Template.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:59:47 PM On 2019-02-18
